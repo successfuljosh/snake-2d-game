@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637766530096207161
+      ticks: 637770067236547558
     m_Hash: 238244261
   m_LockFileStatus:
     m_FilePath: C:/UnityProject/SnakeGame/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637766532489707552
+      ticks: 637770067236547558
     m_Hash: 201114752
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
